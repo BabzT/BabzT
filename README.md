@@ -10,8 +10,7 @@
 
 ### 📞 Contact me
 ###### You're just a click away
-  [Twitter](https:twitter.com/BabzTech?t=CEGTG20tavLWBk2OofKTg&s=09) [LinkedIn](https://www.linkedin.com/in/babatunde-hezekiah-9976b5195) [Gmail](babatundehezekiah7@gmail.com)
-  
+  [Twitter](https://twitter.com/BabzTech?t=CEGTG20tavLWBk2OofKTg&s=09) [LinkedIn](https://www.linkedin.com/in/babatunde-hezekiah-9976b5195)
 ### 💡 My Technologies
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BabzT&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
